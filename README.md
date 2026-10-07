@@ -23,7 +23,7 @@ a062d86 (HEAD -> feature/contacto, origin/feature/contacto) Contactos.html docum
 33d4f1e Historial de la practica añadido al README
 0165b8a Crea la estructura inicial del proyecto
 
--Feature/contacto despues del merge-
+- Feature/contacto despues del merge
 539d228 (HEAD -> feature/contacto, main) Ha habido un problema con los merge
 8a07c1b (origin/feature/contacto) Antes del merge en feature
 e863e8c (origin/main, origin/HEAD) Historial actualizado con log de la foto
