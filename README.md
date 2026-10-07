@@ -31,8 +31,6 @@ e863e8c (origin/main, origin/HEAD) Historial actualizado con log de la foto
 da60f2c Foto añadida
 a062d86 Contactos.html documentdo en el readme
 28fe732 Creacion de la pagina contactos.html
-- Feature/contacto despues del merge
->>>>>>>>> Temporary merge branch 2
 
 - Foto añadida manualmente
 da60f2c (HEAD -> main, origin/main, origin/HEAD) Foto añadida
