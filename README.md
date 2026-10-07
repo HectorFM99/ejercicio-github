@@ -16,5 +16,5 @@ No tengo ningun problema y ninguna duda
 -Pagina de contactos.html creada-
 28fe732 (HEAD -> feature/contacto) Creacion de la pagina contactos.html
 
--Foto añadida desde el repositorio remoto-
+-Foto añadida manualmente-
 da60f2c (HEAD -> main, origin/main, origin/HEAD) Foto añadida
