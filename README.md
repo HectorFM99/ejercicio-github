@@ -2,9 +2,11 @@
 ejercicio para abarcar los comandos basicos de github y sus funciones.
 
 ##Problemas y dudas
+
 No tengo ningun problema y ninguna duda
 
 ##Historial de la practica
+
 -Primer push-
 0165b8a (HEAD -> main) Crea la estructura inicial del proyecto
 
@@ -21,3 +23,5 @@ a062d86 (HEAD -> feature/contacto, origin/feature/contacto) Contactos.html docum
 0165b8a Crea la estructura inicial del proyecto
 
 -Feature/contacto despues del merge-
+-Foto añadida manualmente-
+da60f2c (HEAD -> main, origin/main, origin/HEAD) Foto añadida
