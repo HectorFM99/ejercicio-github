@@ -7,3 +7,8 @@ No tengo ningun problema y ninguna duda
 ##Historial de la practica
 -Primer push-
 0165b8a (HEAD -> main) Crea la estructura inicial del proyecto
+
+-Historial de la practica en el README-
+33d4f1e (HEAD -> feature/contacto, origin/main, main) Historial de la practica añadido al README
+
+
