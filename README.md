@@ -23,6 +23,7 @@ a062d86 (HEAD -> feature/contacto, origin/feature/contacto) Contactos.html docum
 0165b8a Crea la estructura inicial del proyecto
 
 -Feature/contacto despues del merge-
+>>>>>>>>> Temporary merge branch 2
 
 -Foto añadida manualmente-
 da60f2c (HEAD -> main, origin/main, origin/HEAD) Foto añadida
